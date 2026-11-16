@@ -1,0 +1,15 @@
+{
+  "name": "courtapi",
+  "description": "The CourtAPI plugin: an AI docketing assistant for US federal courts.",
+  "owner": {
+    "name": "CourtAPI",
+    "email": "support@courtapi.com"
+  },
+  "plugins": [
+    {
+      "name": "courtapi",
+      "source": "./",
+      "description": "Your AI docketing assistant for US federal courts, through the hosted CourtAPI MCP server."
+    }
+  ]
+}

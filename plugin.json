@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "courtapi",
+  "version": "1.0.0",
+  "description": "Your AI docketing assistant for US federal courts, through the hosted CourtAPI MCP server. Find cases, read docket sheets, claims registers, creditors, parties and documents, follow your firm's recent case activity and CourtDrive calendar, and refresh from PACER when you choose to. Sign in with your CourtAPI app credentials when you first connect.",
+  "author": {
+    "name": "CourtAPI",
+    "email": "support@courtapi.com",
+    "url": "https://www.courtapi.com"
+  },
+  "homepage": "https://www.courtapi.com",
+  "repository": "https://github.com/courtio/courtapi-plugin",
+  "license": "MIT",
+  "keywords": ["courtapi", "courtapi mcp", "courtapi docket", "courtapi pacer", "courtdrive"]
+}
